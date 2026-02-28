@@ -13,17 +13,17 @@
     <a href="https://github.com/Abidd1" target="_blank">
       <img src="https://img.shields.io/badge/View%20My%20Work-blue?style=flat-square&logo=github" alt="View My Work">
     </a>
-    <a href="your_cv_link.pdf" target="_blank">
+    <a href="https://abid-web-developer.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/Download%20CV-green?style=flat-square&logo=pdf" alt="Download CV">
     </a>
   </p>
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-github-username" title="GitHub">
+  <a href="https://github.com/Abidd1" title="GitHub">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/abid-ali-b89794334/" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:abidali129418@gmail.com" title="Email">
@@ -117,7 +117,7 @@
     <br>
     <em>Tech Stack: React, Node.js, MongoDB</em>
     <br>
-    <a href="your-ecommerce-project-link" target="_blank">
+    <a href="https://codevoyagers.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/View%20Project-gray?style=flat-square" alt="View E-commerce Project"/>
     </a>
   </p>
@@ -141,13 +141,13 @@
     <br>
     <em>Tech Stack: Next.js, Python, TensorFlow</em>
     <br>
-    <a href="your-ai-dashboard-project-link" target="_blank">
+    <a href="https://zain-acadexa.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/View%20Project-gray?style=flat-square" alt="View AI Dashboard Project"/>
     </a>
   </p>
 
   <p>
-    <a href="https://github.com/your-github-username/your-portfolio" target="_blank">
+    <a href="https://abid-web-developer.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/View%20All%20Projects-orange?style=flat-square" alt="View All Projects"/>
     </a>
   </p>
