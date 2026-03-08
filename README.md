@@ -267,12 +267,6 @@
     <img src="https://user-images.githubusercontent.com/107656736/282905244-e9485e68-1e6c-4a91-9a6b-7f2e88126c22.gif" alt="Quick Links Icon" width="30"/> Quick Links 🔗
   </h3>
 
-  <p>
-    <a href="https://github.com/your-github-username/your-portfolio">Home</a> |
-    <a href="https://github.com/your-github-username/your-portfolio#about-me">About Me</a> |
-    <a href="https://github.com/your-github-username/your-portfolio#featured-work">My Work</a> |
-    <a href="mailto:abidali129418@gmail.com">Hire Me</a> |
-    <a href="https://github.com/your-github-username/your-portfolio#services">Services</a>
-  </p>
+ 
 
 </div>
