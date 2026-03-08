@@ -259,13 +259,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-  <h3>
-    <img src="https://user-images.githubusercontent.com/107656736/282905244-e9485e68-1e6c-4a91-9a6b-7f2e88126c22.gif" alt="Quick Links Icon" width="30"/> Quick Links 🔗
-  </h3>
 
  
 
